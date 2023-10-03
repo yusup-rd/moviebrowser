@@ -5,6 +5,7 @@ This is a React-based web application that allows users to search for movies, vi
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Demo](#demo)
 - [Project Structure](#project-structure)
 - [Features](#features)
 - [Getting Started](#getting-started)
@@ -19,6 +20,17 @@ The Movie Browser Website is a React-based web application that provides users w
 - **Movie Details**: Clicking on a movie card displays detailed information about the selected movie.
 - **About Me**: The website also includes an "About Me" section, where the developer shares their experiences and insights gained from building this project.
 - **Responsive Design**: The application is designed to be responsive and user-friendly on both desktop and mobile devices.
+
+## Demo
+
+You can check out the live demo of the Movie Browser Website on Netlify:
+
+[![Movie Browser Website](https://github.com/yusup-rd/moviebrowser/assets/71926209/1d02de98-8857-41b9-9186-2a3493a87035)](https://react-moviebrowser.netlify.app/)
+[![Movie Browser Website](https://github.com/yusup-rd/moviebrowser/assets/71926209/ee5db0d4-f9a1-42af-812e-4c213f012a6d)](https://react-moviebrowser.netlify.app/)
+
+Click the image or the following link to access the demo: [Movie Browser Website Demo](https://react-moviebrowser.netlify.app/)
+
+Feel free to explore the website and experience it firsthand!
 
 ## Project Structure
 
