@@ -25,9 +25,9 @@ The Movie Browser Website is a React-based web application that provides users w
 
 You can check out the live demo of the Movie Browser Website on Netlify:
 
-[![Movie Browser Website](https://github.com/yusup-rd/moviebrowser/assets/71926209/c3217c7c-5e9c-449c-95ff-722c3ba72b44)](https://react-moviebrowser.netlify.app/)
+[![Image 1](https://github.com/yusup-rd/moviebrowser/assets/71926209/c3217c7c-5e9c-449c-95ff-722c3ba72b44)](https://react-moviebrowser.netlify.app/)
 
-[![Movie Browser Website](https://github.com/yusup-rd/moviebrowser/assets/71926209/4544d234-ffa6-45d5-a09c-5d8ec98a3d76)](https://react-moviebrowser.netlify.app/)
+[![Image 2](https://github.com/yusup-rd/moviebrowser/assets/71926209/4544d234-ffa6-45d5-a09c-5d8ec98a3d76)](https://react-moviebrowser.netlify.app/)
 
 Click the image or the following link to access the demo: [Movie Browser Website Demo](https://react-moviebrowser.netlify.app/)
 
