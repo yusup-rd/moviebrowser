@@ -8,7 +8,6 @@ This is a React-based web application that allows users to search for movies, vi
 - [Demo](#demo)
 - [Project Structure](#project-structure)
 - [Features](#features)
-- [Getting Started](#getting-started)
 - [Dependencies](#dependencies)
 - [Acknowledgments](#acknowledgments)
 
@@ -68,23 +67,6 @@ The project is structured as follows:
 ### 4. Responsive Design
 
 - The website is designed to be responsive, ensuring a consistent user experience across different devices and screen sizes.
-
-## Getting Started
-
-To run the Movie Browser Website locally, follow these steps:
-
-1. Clone the repository to your local machine.
-2. Navigate to the project directory using your terminal.
-3. Run the following command to install dependencies:
-
-```bash
-npm install
-```
-4. After the installation is complete, start the development server with:
-```
-npm start
-```
-5. Open a web browser and go to http://localhost:3000 to access the Movie Browser Website.
 
 ## Dependencies
 
